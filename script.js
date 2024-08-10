@@ -44,7 +44,7 @@ function start() {
         // If the count down is over, write some text 
 
         if (timeDistance < 0)
-         document.getElementById('demo').innerHTML = 'Expired'
+         document.getElementById('demo').innerHTML = 'Date is Expired'
 
         
 }
